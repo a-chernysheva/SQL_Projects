@@ -4,11 +4,11 @@
 В данном репозитории представлены примеры запросов PostgreSQL для решения различных задач. Каждый ноутбук посвящен решению определенных задач с использованием конкретных инструментов. 
 
 ### Список ноутбуков:
-1. Ноутбук "Подзапросы и Common Table Expressions" ([перейти](#notebook1))
-2. Ноутбук "Тренировочные упражнения по теме _'Подзапросы'"_ ([перейти](#notebook2))
+1. Ноутбук "Подзапросы и Common Table Expressions" 
+2. Ноутбук "Тренировочные упражнения по теме _'Подзапросы'"_ 
 
-<div id="notebook1"></div>
-### Ноутбук "Подзапросы и Common Table Expressions" ([Nested_Queries_and_Common_Table_Expressions](https://github.com/a-chernysheva/SQL_Projects/blob/master/Nested_Queries_and_Common_Table_Expressions.ipynb))
+### 1. Ноутбук "Подзапросы и Common Table Expressions" ([Nested_Queries_and_Common_Table_Expressions](https://github.com/a-chernysheva/SQL_Projects/blob/master/Nested_Queries_and_Common_Table_Expressions.ipynb))
+
 #### Описание задачи
 Образовательные курсы состоят из различных уроков, каждый из которых состоит из нескольких маленьких заданий. Каждое такое маленькое задание называется "горошиной".  
 
@@ -28,12 +28,10 @@
 |control |4,540.98	|10,393.70	|4.92	|11.02	|6.00	|
 |pilot |11,508.47	|29,739.58	|10.85	|26.04	|9.09   |
 
-<div id="notebook2"></div>
-### Ноутбук "Тренировочные упражнения по теме _'Подзапросы'"_ ([Nested_Queries](https://github.com/a-chernysheva/SQL_Projects/blob/master/Nested_Queries_Academic_Project.ipynb))
+### 2. Ноутбук "Тренировочные упражнения по теме _'Подзапросы'"_ ([Nested_Queries](https://github.com/a-chernysheva/SQL_Projects/blob/master/Nested_Queries_Academic_Project.ipynb))
+
 #### Описание задачи
 Ноутбук содержит решение тренировочных задач с использованием коррелированных и некоррелированных подзапросов в SELECT, FROM, JOIN, WHERE и ORDER BY.  
-
-
 
 ## Коммиты: 
 
@@ -42,4 +40,6 @@
 |1 		|28 Mar 2025|Nested_Queries_and_Common_Table_Expressions.ipynb, README.md	|initial commit										|
 |2 		|02 Apr 2025|Nested_Queries_Academic_Project.ipynb				|1 new notebook added								|
 |3 		|02 Apr 2025|README.md				|README.md updates								|
+|3 		|02 Apr 2025|README.md				|minor formatting edit								|
+
 
