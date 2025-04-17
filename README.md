@@ -5,7 +5,9 @@
 
 ### Список ноутбуков:
 1. Ноутбук "Подзапросы и Common Table Expressions" 
-2. Ноутбук "Тренировочные упражнения по теме _'Подзапросы'"_ 
+2. Ноутбук "Тренировочные упражнения по теме _'Подзапросы'"_
+3. Ноутбук "Тренировочные упражнения по теме _'Аналитические функции'"_
+
 
 ### 1. Ноутбук "Подзапросы и Common Table Expressions" ([Nested_Queries_and_Common_Table_Expressions](https://github.com/a-chernysheva/SQL_Projects/blob/master/Nested_Queries_and_Common_Table_Expressions.ipynb))
 
@@ -33,6 +35,12 @@
 #### Описание задачи
 Ноутбук содержит решение тренировочных задач с использованием коррелированных и некоррелированных подзапросов в SELECT, FROM, JOIN, WHERE и ORDER BY.  
 
+### 3. Ноутбук "Тренировочные упражнения по теме _'Аналитические функции'"_ ([Window_Functions](https://github.com/a-chernysheva/SQL_Projects/blob/master/Window_Functions_Academic_Project.ipynb))
+
+#### Описание задачи
+Ноутбук содержит решение тренировочных задач с использованием аналитических (оконных) функций.
+
+
 ## Коммиты: 
 
 |#   	|date 		|files_updates 													|comment											|
@@ -43,8 +51,8 @@
 |3 		|02 Apr 2025|README.md											|minor formatting edit								|
 |4 		|17 Apr 2025|Window_Functions_Academic_Project.ipynb,README.md	|1 new notebook added								|
 | 		| 			|Nested_Queries_Academic_Project.ipynb				|minor formatting edit								|
-
-
-
-
+|5 		|17 Apr 2025|README.md	 			 			 				|added description of notebook 3					|
+| 		| 			|Nested_Queries_Academic_Project.ipynb				|minor formatting edit								|
+| 		| 			|Nested_Queries_and_Common_Table_Expressions.ipynb	|minor formatting edit								|
+| 		| 			|Window_Functions_Academic_Project.ipynb			|minor formatting edit								|
 
