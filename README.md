@@ -39,7 +39,12 @@
 |------:|:----------|:--------------------------------------------------------------|:--------------------------------------------------|
 |1 		|28 Mar 2025|Nested_Queries_and_Common_Table_Expressions.ipynb, README.md	|initial commit										|
 |2 		|02 Apr 2025|Nested_Queries_Academic_Project.ipynb				|1 new notebook added								|
-|3 		|02 Apr 2025|README.md				|README.md updates								|
-|3 		|02 Apr 2025|README.md				|minor formatting edit								|
+|3 		|02 Apr 2025|README.md											|README.md updates								|
+|3 		|02 Apr 2025|README.md											|minor formatting edit								|
+|4 		|17 Apr 2025|Window_Functions_Academic_Project.ipynb,README.md	|1 new notebook added								|
+| 		| 			|Nested_Queries_Academic_Project.ipynb				|minor formatting edit								|
+
+
+
 
 
